@@ -1,0 +1,9 @@
+{
+    "topic": "kafak topic. e.g. audio",
+    "filename": "filename of chunk audio. e.g. ab512dbcacb65594fa4229a0be1de371.wav",
+    "fs": "sample rate. e.g. 44100",
+    "x": "samples array of int16 e.g. [1,-2,3,-4...]",
+    "account_id": "reserved",
+    "session_id": "reserved",
+    "audio": "reserved: bytes of audio, another way to send audio as back up"
+}
